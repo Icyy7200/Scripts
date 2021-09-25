@@ -1,0 +1,12 @@
+SCRIPTS
+
+--\\ Server Crash
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/DhCrash'))()
+
+--\\ Icyy X
+loadstring(game:HttpGet("https://pastebin.com/raw/660Gx3jp", true))()
+or
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/Gui'))()
+ 
+--\\ Selling Gui
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Icyy-X/main/SellerGui", true))()
