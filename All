@@ -10,3 +10,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main
  
 --\\ Selling Gui
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Icyy-X/main/SellerGui", true))()
+
+--\\ My Store
+https://www.icyysdhstore.ga/
