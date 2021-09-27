@@ -1,5 +1,10 @@
 SCRIPTS
 
+!!ALL SCRIPTS ARE FOR DA HOOD!!
+
+--\\ Autopickup
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Scripts/main/Autopickup", true))()
+
 --\\ Server Crash
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/DhCrash'))()
 
