@@ -1,22 +1,20 @@
-SCRIPTS
-
 !!ALL SCRIPTS ARE FOR DA HOOD!!
 
----\\ Autopickup
+---\\ Autopickup //---
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Scripts/main/Autopickup", true))()
 
----\\ Server Crash
+---\\ Server Crash //---
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/DhCrash'))()
 
----\\ Icyy X
+---\\ Icyy X //---
 loadstring(game:HttpGet("https://pastebin.com/raw/660Gx3jp", true))()
 or
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/Gui'))()
  
----\\ Selling Gui
+---\\ Selling Gui //---
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Icyy-X/main/SellerGui", true))()
 
----\\ Selling Script
+---\\ Selling Script //---
 
 --EXECUTE THIS ON YOUR ALT ACCOUNTS ONLY
 --Commands
@@ -38,5 +36,5 @@ getgenv().Alts = {
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Scripts/main/Altdropper", true))()
 
 
----\\ My Store
+---\\ My Store //---
 https://www.icyysdhstore.ga/
