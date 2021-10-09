@@ -2,40 +2,41 @@ SCRIPTS
 
 !!ALL SCRIPTS ARE FOR DA HOOD!!
 
---\\ Autopickup
+---\\ Autopickup
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Scripts/main/Autopickup", true))()
 
---\\ Server Crash
+---\\ Server Crash
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/DhCrash'))()
 
---\\ Icyy X
+---\\ Icyy X
 loadstring(game:HttpGet("https://pastebin.com/raw/660Gx3jp", true))()
 or
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/Gui'))()
  
---\\ Selling Gui
+---\\ Selling Gui
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Icyy-X/main/SellerGui", true))()
 
---\\ Selling Script
+---\\ Selling Script
 
 --EXECUTE THIS ON YOUR ALT ACCOUNTS ONLY
+--Commands
+-- .alts (brings alts)
+-- .drop (drops money)
+-- .stop (stops dropping)
+-- .wallet (shows wallet)
+-- .lagfree (Destroys the cash and texture on the alts screen)
+-- .crash (Crashes the server w swagmode) (edited)
+
 getgenv().Seller = {
     1818367266, -- seller id here
 }
 getgenv().Alts = {
-    Alt1 = "", --alt names here (maximum of 10 alts)
-    Alt2 = "",
-    Alt3 = "",
-    Alt4 = "",
-    Alt5 = "",
-    Alt6 = "",
-    Alt7 = "",
-    Alt8 = "",
-    Alt9 = "",
-    Alt10 = "",
+    Alt1 =, --alt ids here (maximum of 20 alts now)
+    Alt2 =,
+    Alt3 =,
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Scripts/main/Altdropper", true))()
 
 
---\\ My Store
+---\\ My Store
 https://www.icyysdhstore.ga/
