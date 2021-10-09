@@ -3,9 +3,6 @@
 ---\\ Autopickup //---
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Scripts/main/Autopickup", true))()
 
----\\ Server Crash //---
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/DhCrash'))()
-
 ---\\ Icyy X //---
 loadstring(game:HttpGet("https://pastebin.com/raw/660Gx3jp", true))()
 or
