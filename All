@@ -12,15 +12,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Icyy7200/Icyy-X/main/SellerGui", true))()
 
 ---\\ Selling Script //---
-
---EXECUTE THIS ON YOUR ALT ACCOUNTS ONLY
---Commands
--- .alts (brings alts)
--- .drop (drops money)
--- .stop (stops dropping)
--- .wallet (shows wallet)
--- .lagfree (Destroys the cash and texture on the alts screen)
--- .crash (Crashes the server w swagmode)
+discord.gg/KYTwGNvgzz
 
 getgenv().Seller = {
     1818367266, -- seller id here
