@@ -1,4 +1,4 @@
 local bozos = {
-[1748558918] = {["reason"] = "test"}
+[1] = {["reason"] = "test"}
 }
 return bozos
