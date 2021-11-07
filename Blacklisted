@@ -1,4 +1,0 @@
-local bozos = {
-[1] = {["reason"] = "test"}
-}
-return bozos
