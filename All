@@ -11,6 +11,9 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main
 ---\\ Selling Gui //---
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Icyy-X/main/SellerGui'))()
 
+---\\ Crash //---
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/DhCrash'))()
+
 ---\\ Selling Script //---
 discord.gg/v7BqsScc2f
 
@@ -23,7 +26,6 @@ getgenv().Alts = {
     Alt3 =,
 }
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Icyy7200/Scripts/main/Altdropper'))()
-
 
 ---\\ My Store //---
 https://www.icyysdhstore.ga/
